@@ -1,0 +1,24 @@
+body {
+  background-color: #E9ECEF;
+}
+
+.text-purple {
+  color: #6f42c1;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Ana sayfa için ek stiller */
+.list-unstyled li {
+  margin-bottom: 0.5rem;
+}
+
+.container {
+  max-width: 800px;
+} 
